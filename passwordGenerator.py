@@ -1,7 +1,7 @@
-######################
-#    PROJECT Nº1     #
-# PASSWORD GENERATOR #
-######################
+#####################################################################################
+#                                  PROJECT Nº1                                      #
+#                              PASSWORD GENERATOR                                   #
+#####################################################################################
 import random as rdm
 import string as str
 import pyperclip as py # It is necessary to install pyperclip: pip install pyperclip
@@ -29,3 +29,5 @@ finally:
     number = input("Please, choose if you wish to have numbers in your password (Y/N): ").lower() == 'y'
     symbol = input("Please, choose if you wish to have symbols in your password (Y/N): ").lower() == 'y'
     passwordGenerator(length, upper, number, symbol)
+
+# Brought to you by RDMP18

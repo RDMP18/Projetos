@@ -1,6 +1,6 @@
 #####################################################################################
-#                                  PROJECT Nº2                                      #
-#                                   TASK LIST                                       #
+#                                   PROJECT #2                                      #
+#                                   TO-DO LIST                                      #
 #####################################################################################
 
 # IMPORTANT: Please run the script inside the /toDoList directory. Thank you.
